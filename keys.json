@@ -1,0 +1,11 @@
+{
+  "simplex_usd": {
+    "gateway": "simplex_usd",
+    "secret": "simplex_usd_keys"
+  },
+  "affiliate": {
+    "gateway": "affiliate_usd",
+    "secret": "affiliate_usd_keys"
+  }
+
+}
